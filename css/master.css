@@ -1,0 +1,15 @@
+h1 {
+    color:#2d2d2d;
+    background-color:#d5d5d5;
+}
+h2 {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+section {
+    color: #2d2d2d;
+}
+
+img {
+    size-adjust: 100;
+}
